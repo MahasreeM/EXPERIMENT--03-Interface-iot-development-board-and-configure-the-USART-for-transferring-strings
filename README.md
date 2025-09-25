@@ -358,10 +358,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![exp3 image](https://github.com/user-attachments/assets/0f50d705-13d9-4b1b-8b31-4a1f50fac2cd)
 
 
- ## Result :
 
- thus the implemented program was successfully verified.
- 
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
